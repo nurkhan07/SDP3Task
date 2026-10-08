@@ -1,5 +1,5 @@
 package org.example.bridge;
-
+//Concrete Implementor
 public class VectorRenderer implements Renderer {
 
     @Override

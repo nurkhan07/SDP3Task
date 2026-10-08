@@ -1,8 +1,8 @@
 package org.example.bridge;
-
+//Abstraction
 public abstract class Shape {
 
-    protected Renderer renderer;
+    protected Renderer renderer; //Bridge
 
     public Shape(Renderer renderer) {
         this.renderer = renderer;

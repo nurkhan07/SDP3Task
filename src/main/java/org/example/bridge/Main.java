@@ -1,7 +1,7 @@
 package org.example.bridge;
 
 public class Main {
-
+//Client
     public static void main(String[] args) {
 
         // Create renderers

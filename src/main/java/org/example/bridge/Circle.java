@@ -1,5 +1,5 @@
 package org.example.bridge;
-
+//Refined Abstraction
 public class Circle extends Shape {
 
     private double radius;

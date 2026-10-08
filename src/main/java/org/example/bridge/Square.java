@@ -1,5 +1,5 @@
 package org.example.bridge;
-
+//Refined Abstraction
 public class Square extends Shape {
 
     private double side;

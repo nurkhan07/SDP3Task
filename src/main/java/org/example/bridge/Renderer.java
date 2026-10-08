@@ -1,5 +1,5 @@
 package org.example.bridge;
-
+//Implementor
 public interface Renderer {
 
     void renderCircle(double radius);
